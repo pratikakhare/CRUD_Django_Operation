@@ -1,4 +1,4 @@
-# SetUp
+# Project SetUp
 1. download the zip file
 2. open CRUD folder in Vs Code
 3. Open New Terminal for the CRUD project (PS C:\django\CRUD>)
