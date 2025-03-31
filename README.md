@@ -6,6 +6,6 @@
     1. python manage.py makemigrations
     2. python manage.py migrate
 5. Now Finally Run command to Run the project
-   1.python manage.py runserver
+   1. python manage.py runserver
 
 For More info :-  pratikakhare95@gmail.com
