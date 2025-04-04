@@ -1,7 +1,7 @@
 # Project SetUp
 1. download the zip file
 2. open CRUD folder in Vs Code
-3. Open New Terminal for the CRUD project (PS C:\django\CRUD>)
+3. Open New Terminal for the CRUD project (C:\Users\hp\Downloads\CRUD_Django_Operation-master\CRUD_Django_Operation-master>)
 4. Run the follwing commands
     1. python manage.py makemigrations
     2. python manage.py migrate
